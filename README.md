@@ -1,1 +1,1 @@
-<h1 style="background-color:Tomato;">Machine Learning</h1>
+<h1 style="color:Tomato;">Machine Learning</h1>
